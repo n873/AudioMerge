@@ -1,0 +1,24 @@
+C:\Users\Nathan.Alard\Documents\Visual Studio 2012\Projects\Mp3Joiner\Mp3Joiner\bin\Debug\Mp3Joiner.exe.config
+C:\Users\Nathan.Alard\Documents\Visual Studio 2012\Projects\Mp3Joiner\Mp3Joiner\bin\Debug\Mp3Joiner.exe
+C:\Users\Nathan.Alard\Documents\Visual Studio 2012\Projects\Mp3Joiner\Mp3Joiner\bin\Debug\Mp3Joiner.pdb
+C:\Users\Nathan.Alard\Documents\Visual Studio 2012\Projects\Mp3Joiner\Mp3Joiner\obj\Debug\Mp3Joiner.csprojResolveAssemblyReference.cache
+C:\Users\Nathan.Alard\Documents\Visual Studio 2012\Projects\Mp3Joiner\Mp3Joiner\obj\Debug\Mp3Joiner.Form1.resources
+C:\Users\Nathan.Alard\Documents\Visual Studio 2012\Projects\Mp3Joiner\Mp3Joiner\obj\Debug\Mp3Joiner.Properties.Resources.resources
+C:\Users\Nathan.Alard\Documents\Visual Studio 2012\Projects\Mp3Joiner\Mp3Joiner\obj\Debug\Mp3Joiner.csproj.GenerateResource.Cache
+C:\Users\Nathan.Alard\Documents\Visual Studio 2012\Projects\Mp3Joiner\Mp3Joiner\obj\Debug\Mp3Joiner.exe
+C:\Users\Nathan.Alard\Documents\Visual Studio 2012\Projects\Mp3Joiner\Mp3Joiner\obj\Debug\Mp3Joiner.pdb
+C:\Users\Nathan.Alard\Documents\Visual Studio 2012\Projects\Mp3Joiner\Mp3Joiner\bin\Debug\NAudio.dll
+C:\Users\Nathan.Alard\Documents\Visual Studio 2012\Projects\Mp3Joiner\Mp3Joiner\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Nathan.Alard\Documents\Visual Studio 2012\Projects\Mp3Joiner\Mp3Joiner\bin\Debug\NAudio.xml
+C:\Users\n873\Dropbox\Mp3Joiner\Mp3Joiner\bin\Debug\Mp3Joiner.exe.config
+C:\Users\n873\Dropbox\Mp3Joiner\Mp3Joiner\obj\Debug\Mp3Joiner.exe
+C:\Users\n873\Dropbox\Mp3Joiner\Mp3Joiner\obj\Debug\Mp3Joiner.pdb
+C:\Users\n873\Dropbox\Mp3Joiner\Mp3Joiner\bin\Debug\Mp3Joiner.exe
+C:\Users\n873\Dropbox\Mp3Joiner\Mp3Joiner\bin\Debug\Mp3Joiner.pdb
+C:\Users\n873\Dropbox\Mp3Joiner\Mp3Joiner\bin\Debug\NAudio.dll
+C:\Users\n873\Dropbox\Mp3Joiner\Mp3Joiner\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\n873\Dropbox\Mp3Joiner\Mp3Joiner\bin\Debug\NAudio.xml
+C:\Users\n873\Dropbox\Mp3Joiner\Mp3Joiner\obj\Debug\Mp3Joiner.csprojResolveAssemblyReference.cache
+C:\Users\n873\Dropbox\Mp3Joiner\Mp3Joiner\obj\Debug\Mp3Joiner.Form1.resources
+C:\Users\n873\Dropbox\Mp3Joiner\Mp3Joiner\obj\Debug\Mp3Joiner.Properties.Resources.resources
+C:\Users\n873\Dropbox\Mp3Joiner\Mp3Joiner\obj\Debug\Mp3Joiner.csproj.GenerateResource.Cache
